@@ -1,0 +1,11 @@
+.footer__container {
+  background: var(--color-primary-variant);
+  margin-top: 2rem;
+  padding-top: 1rem;
+}
+
+.footer__cr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
