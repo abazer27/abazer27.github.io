@@ -1,7 +1,8 @@
 .footer__container {
-  background: var(--color-primary-variant);
+  background: rgba(0, 0, 0, 0.3);
   margin-top: 2rem;
-  padding-top: 1rem;
+  padding: 0.5rem 0;
+  color: var(--color-primary-variant);
 }
 
 .footer__cr {
